@@ -68,7 +68,7 @@ The design fits smart agriculture, indoor tracking, and other distributed monito
 
 ## Architecture Diagram
 
-![System architecture showing ESP32 nodes sending ESP-NOW data to a gateway, which publishes JSON to MQTT and feeds a Node-RED dashboard](./iot-pic.png)
+![System architecture showing ESP32 nodes sending ESP-NOW data to a gateway, which publishes JSON to MQTT and feeds a Node-RED dashboard](./IOT%20PICT.png)
 
 ---
 
@@ -219,7 +219,7 @@ Gateway wiring is the same if you keep a local DHT11 for reference; otherwise le
 
 ---
 
-
+## Example Firmware (real sketches)
 
 Sensor node (New_Slave_2.ino):
 ```cpp
